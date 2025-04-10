@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "305115609907",
+    "project_id": "quikapp-demo",
+    "storage_bucket": "quikapp-demo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305115609907:android:a3a28d29c4a3a991635c46",
+        "android_client_info": {
+          "package_name": "com.demo.quikdemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw_Gl8I_44ZQLFvnn0lEXtuH0Old4n1fQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
